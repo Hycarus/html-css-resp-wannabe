@@ -157,7 +157,15 @@ img {
     .row .col{
         padding: 2rem 1rem;
     }
-    body{
+    .why-us{
         background-color: #222222;
+        padding-top: 3rem;
+        margin-bottom: 0;
+    }
+    .steps{
+        margin: 0;
+    }
+    .lessons{
+        margin-bottom: 3rem;
     }
 }
