@@ -142,8 +142,7 @@ img {
     }
 
     .lessons .col,
-    .steps .col,
-    .row .col {
+    .steps .col{
         width: auto;
     }
 
