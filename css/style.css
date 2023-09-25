@@ -136,14 +136,14 @@ img {
 
 @media screen and (max-width:768px) {
     .container {
-        width: auto;
+        width: 100%;
         padding: 0;
         margin: 0;
     }
 
     .lessons .col,
     .steps .col{
-        width: auto;
+        width: 100%;
     }
 
     .row .col {
@@ -158,20 +158,10 @@ img {
         margin: 0 auto;
     }
 
-    .container {
-        width: auto;
-        padding: 0;
-        margin: 0;
-    }
-
     .lessons .col,
     .steps .col,
     .row .col {
-        width: auto;
-    }
-
-    .row .col {
-        padding: 2rem 1rem;
+        width: 100%;
     }
 
     .why-us {
